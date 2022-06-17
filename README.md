@@ -1,4 +1,5 @@
 # Grafana
+<img src="https://docs.checkmk.com/latest/images/grafana_logo.png" width="200px"><img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool-alpha.png" width="200px"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/influxdb-logo.png" width="250px"><BR>
 Grafana with Telegraf and InfluxDB
 
 # Things to take note of:
